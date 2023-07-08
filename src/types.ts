@@ -15,6 +15,12 @@
 
 
 
+
 export interface SampleCardGridProps {
+  className?: any;
+}
+
+
+export interface Authentication1Props {
   className?: any;
 }
