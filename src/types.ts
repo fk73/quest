@@ -16,11 +16,18 @@
 
 
 
+
 export interface SampleCardGridProps {
   className?: any;
 }
 
 
+
 export interface Authentication1Props {
+  className?: any;
+}
+
+
+export interface PopOver2Props {
   className?: any;
 }
